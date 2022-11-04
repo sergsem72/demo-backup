@@ -13,5 +13,4 @@ commit333
 feature5
 feature6
 commit2
-chery-pick(main)
 
