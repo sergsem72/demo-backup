@@ -13,4 +13,16 @@ commit333
 feature5
 feature6
 commit2
+<<<<<<< Updated upstream
+=======
+feature5
+feature5
+feature6
+commit 11
+commit 11
+commit 13
+commit 13
+comit1
+stashing
+>>>>>>> Stashed changes
 
